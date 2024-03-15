@@ -1,10 +1,10 @@
-# Ignore everything
 /*
 
-# But not these files
 !.bashrc
 !.zshrc
-!.config/nvim/
-!.config/nvim/*
 !.tmux.conf
 !.gitignore
+
+!.config/
+.config/*
+!.config/nvim
