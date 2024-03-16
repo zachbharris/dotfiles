@@ -127,7 +127,5 @@ set t_vb=
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
-export TURSO_API_TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDQ2ODI5MDMsImlhdCI6MTcwNDA3ODEwMywiaWQiOjE0NzMzfQ.pTe0m7fKeEpndwvJjLvYMIljnGDTUBo_Wc5IU_Dofg0"
-
 # bun completions
 [ -s "/home/zachbharris/.bun/_bun" ] && source "/home/zachbharris/.bun/_bun"

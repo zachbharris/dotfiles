@@ -4,6 +4,7 @@
 !.zshrc
 !.tmux.conf
 !.gitignore
+!README.md
 
 !.config/
 .config/*
